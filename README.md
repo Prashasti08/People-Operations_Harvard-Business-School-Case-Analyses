@@ -2,7 +2,7 @@
 
 Root-cause analysis and evidence-based recommendations for HR challenges regarding **talent acquisition, employee retention, and workforce restructuring**.
 
-| **Organization Name** | **Organization Type** | **Challenges Analyzed** | **Actionable Recommendations** | **Case Materials** |
+| **Organization Name** | **Organization Type** | **Challenges Analyzed** | **Actionable Recommendations** | **Full Analysis** |
 | --- | --- | --- | --- | --- |
 | **SG Cowen** | Investment Bank | • Bottlenecks across **4 recruiting stages**<br>• Inconsistent screening and **selection bias** risk<br>• Delays in final hiring decisions | • Assign a **talent acquisition specialist** to set screening criteria and guide finalist reviews<br>• Add **numerical reasoning and financial risk assessments** during screening<br>• Set a decision deadline after final interviews | [Case Analysis PDF](SGCowinCase_Prashasti_Tripathi.-2.pdf) |
 | **Eastern Massachusetts University Hospital** | Academic Hospital | • **Staffing gaps** and nurse burnout<br>• Inconsistent performance feedback<br>• Low engagement and **retention risk** | • Improve **shift coverage** to reduce reliance on float staff<br>• Define **performance criteria** and schedule feedback check-ins<br>• Train junior nurses and patient care assistants | [Case Analysis PDF](NorrisCase_Prashasti_Tripathi.pdf)<br><br>[Action Plan PDF](Action%20Plan%20for%20Norris.pdf) |
