@@ -1,4 +1,4 @@
-# People Operations | From Root Causes to Action
+# People Operations  From Root Causes to Action
 
 **Harvard Business School case analyses by Prashasti Tripathi**
 
