@@ -1,6 +1,6 @@
 # People Operations | Harvard Business School Case Analyses
 
-Root-cause analysis and evidence-based recommendations for **talent acquisition, employee retention, and workforce restructuring**.
+Root-cause analysis and evidence-based recommendations for HR challenges regarding **talent acquisition, employee retention, and workforce restructuring**.
 
 | **Organization Name** | **Organization Type** | **Challenges Analyzed** | **Actionable Recommendations** | **Case Materials** |
 | --- | --- | --- | --- | --- |
