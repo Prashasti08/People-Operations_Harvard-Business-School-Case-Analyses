@@ -1,13 +1,9 @@
-
 # People Operations | Harvard Business School Case Analyses
 
-Root-cause analysis and evidence-based recommendations for challenges relating **talent acquisition, employee retention, and workforce restructuring**.
+Root-cause analysis and evidence-based recommendations for challenges regarding **talent acquisition, employee retention, and workforce restructuring**.
 
----
-
-| **Organization Name** | **Organization Type** | **Challenges Analyzed** | **Actionable Recommendations** | **Full Analysis** |
-|:---|:---|:---|:---|:---:|
-| **SG Cowen** | Investment Bank | • Inefficiencies across the **4-stage recruitment process**<br>• Inconsistent candidate screening and selection bias risks<br>• Extended hiring turnaround time (TAT) and risk of losing top talent | • Integrate talent acquisition specialists across the recruitment lifecycle<br>• Introduce **numerical reasoning and financial risk assessments**<br>• Streamline final interviews and establish standardized hiring timelines | [View PDF](SGCowinCase_Prashasti_Tripathi.-2.pdf) |
-| **Eastern Massachusetts University Hospital** | Academic Hospital | • Staffing shortages, workload imbalance, and employee burnout<br>• Unstructured performance appraisals and feedback mechanisms<br>• Low employee engagement and increased retention risks | • Optimize workforce scheduling and shift allocation<br>• Standardize **performance KPIs and continuous feedback**<br>• Establish structured rewards, recognition, and staff development programs | [View PDF](NorrisCase_Prashasti_Tripathi.pdf) |
-| **KANA** | B2B CRM Software Company | • **Fishbone root-cause analysis** of layoff mismanagement<br>• Leadership communication and workforce planning gaps<br>• Declining employee trust, morale, and engagement | • Establish executive-led change communication protocols<br>• Introduce **manager coaching and outplacement support**<br>• Implement employee feedback forums and workforce contingency planning | [View PDF](Kana%20case_Prashasti_Tripathi-1.pdf) |
-
+| **Organization Name** | **Organization Type** | **Challenges Analyzed** | **Actionable Recommendations** | **Case Materials** |
+| :--- | :--- | :--- | :--- | :--- |
+| **SG Cowen** | Investment Bank | • Inefficiencies across the **4-stage recruitment process**<br>• Inconsistent candidate screening and risk of selection bias<br>• Slow hiring decisions and risk of losing finalists | • Involve a talent acquisition specialist from campus sourcing through final selection<br>• Add **numerical reasoning and financial risk assessments** during screening<br>• Set a decision deadline after final interviews | [Case Analysis PDF](SGCowinCase_Prashasti_Tripathi.-2.pdf) |
+| **Eastern Massachusetts University Hospital** | Academic Hospital | • Staffing shortages, uneven workloads, and nurse burnout<br>• Inconsistent performance reviews and feedback<br>• Low employee engagement and retention risks | • Improve shift coverage to reduce reliance on float staff<br>• Set clear **performance criteria** and schedule regular feedback check-ins<br>• Expand training for junior nurses and patient care assistants | [Case Analysis PDF](NorrisCase_Prashasti_Tripathi.pdf)<br>[Action Plan for Norris PDF](Action%20Plan%20for%20Norris.pdf) |
+| **KANA** | B2B CRM Software Company | • Used **fishbone root-cause analysis** to investigate why news of a planned layoff leaked<br>• Gaps in leadership communication and manager preparation<br>• Limited transition support for affected employees | • Have senior leaders announce the decision and set an update schedule<br>• Coach managers on communicating layoffs and answering employee questions<br>• Provide **outplacement support**, including résumé workshops and job-search assistance | [Case Analysis PDF](Kana%20case_Prashasti_Tripathi-1.pdf) |
