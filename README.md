@@ -1,4 +1,4 @@
-# People Operations | Harvard Business School Case Analyses
+# People Operations | Harvard Business School Case Analyses by Prashasti Tripathi
 
 Root-cause analysis and evidence-based recommendations for HR challenges regarding **talent acquisition, employee retention, and workforce restructuring**.
 
